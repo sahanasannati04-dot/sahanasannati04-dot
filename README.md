@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sahana Sannati
 
-<!--
-**sahanasannati04-dot/sahanasannati04-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Design Student · Full-Stack Developer · AI
 
-Here are some ideas to get you started:
+I build practical full-stack web applications and explore AI-driven solutions that make software more useful, interactive, and intelligent.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Build
+
+**Luxury Grand Hotel**
+
+A full-stack hotel management and booking platform built with **Python, Django, JavaScript, Bootstrap, and Gemini AI**, featuring booking workflows, payments, wishlist, reviews, administration, analytics, and an AI hotel assistant.
+
+### 🛠️ Building With
+
+**Python · Django · JavaScript · HTML · CSS · Bootstrap · Gemini AI · Git · GitHub**
+
+### 🌱 Exploring Next
+
+**React · FastAPI · TypeScript · PostgreSQL · Docker · AI/ML · LLM Integration**
+
+### 🎯 Focus
+
+**Full-Stack Development · AI & ML · AI Integration · Modern Web Applications**
+
+---
